@@ -1,0 +1,8 @@
+# ignoring build-directories
+/dependencies
+/projects
+/build*
+
+
+# Windows image file caches
+Thumbs.db
